@@ -1,7 +1,7 @@
-Views Count
+youtube-view-count-in-node.js
 ========================
 
-The purpose of this app is to querry the daily views .
+The purpose of this app is to querry the daily views of youtube channel and also can get total count.
 
 ### Install an app
 
