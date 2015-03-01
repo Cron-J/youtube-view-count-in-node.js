@@ -13,17 +13,17 @@ npm install
 
 ### Create Database
 
-CREATE TABLE 'test'.'views' (
-
-  'id' INT NOT NULL AUTO_INCREMENT,
-
-  'username' VARCHAR(45) NOT NULL,
-
-  'count' VARCHAR(45) NOT NULL,
-
-  'date' DATE NOT NULL,
-
-  PRIMARY KEY ('id'));
+    CREATE TABLE 'test'.'views' (
+    
+      'id' INT NOT NULL AUTO_INCREMENT,
+    
+      'username' VARCHAR(45) NOT NULL,
+    
+      'count' VARCHAR(45) NOT NULL,
+    
+      'date' DATE NOT NULL,
+    
+      PRIMARY KEY ('id'));
 
 ### Run an app
 
